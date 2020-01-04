@@ -10,7 +10,7 @@ public class Main {
 
         scanner.nextLine();
         System.out.println("Card Suits:");
-
+        System.out.println("test");
         for (CardSuit suit : CardSuit.values()) {
             System.out.printf("Ordinal value: %d; Name value: %s%n",
                     suit.ordinal(), suit.toString());
