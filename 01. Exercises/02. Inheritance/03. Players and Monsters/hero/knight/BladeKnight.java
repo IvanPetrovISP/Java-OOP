@@ -1,4 +1,4 @@
-package hero;
+package hero.knight;
 
 public class BladeKnight extends DarkKnight {
     public BladeKnight(String username, int level) {
