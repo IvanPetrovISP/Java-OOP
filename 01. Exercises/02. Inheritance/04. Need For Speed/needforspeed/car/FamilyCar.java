@@ -1,4 +1,4 @@
-package needforspeed;
+package needforspeed.car;
 
 public class FamilyCar extends Car {
     public FamilyCar(double fuel, int horsePower) {

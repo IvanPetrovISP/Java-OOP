@@ -1,4 +1,4 @@
-package needforspeed;
+package needforspeed.motorcycle;
 
 public class CrossMotorcycle extends Motorcycle {
     public CrossMotorcycle(double fuel, int horsePower) {

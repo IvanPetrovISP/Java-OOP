@@ -1,4 +1,4 @@
-package needforspeed;
+package needforspeed.motorcycle;
 
 public class RaceMotorcycle extends Motorcycle {
     final static double DEFAULT_FUEL_CONSUMPTION = 8;
