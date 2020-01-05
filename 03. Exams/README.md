@@ -1,1 +1,1 @@
-Exam solutions for the participating and past courses. :computer:
+Exam solutions for course I participated in(15 December 2019) and past editions. :computer:
